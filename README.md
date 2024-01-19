@@ -1,7 +1,7 @@
 ## Projeto: Game Home
 
 
-<p>Acesse o projeto <a href="https://ebertryan.github.io/Carrossel-Stripe-Flex/" target="_blank">clicando aqui</a></p>
+<p>Acesse o projeto <a href="https://ebertryan.github.io/GameHome/" target="_blank">clicando aqui</a></p>
 
 ## 🎯 Sobre
 
